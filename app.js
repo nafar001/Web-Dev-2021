@@ -1,7 +1,8 @@
 var btn = document.querySelector('button');
 var body = document.querySelector('body');
 var span = document.querySelector('span');
-
+//Create a alert with your group name
+// alert('');
 
 var colorArr = ['red', 'yellow', 'pink', 'green', 'teal', 'blue']
 
